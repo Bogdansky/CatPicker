@@ -8,5 +8,9 @@
     "start": "node index.js"
   },
   "author": "Bogdansky",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.11.0",
+    "sequelize": "^5.10.1"
+  }
 }
