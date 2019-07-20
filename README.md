@@ -1,2 +1,2 @@
 # CatPicker
-This app I want to create when I watch a funny mem
+This app I want to create when I saw a funny mem
